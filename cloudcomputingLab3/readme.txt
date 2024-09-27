@@ -1,34 +1,6 @@
 -----------------------
 # README
 -----------------------
-CarVilla is a one page bootstrap 3 based Car Dealer Automotive website template.
-
-
-Template Info:
+This website was gotten from different templates and was worked on to improve the design and aesthetics.
+The website is static and is just supposed to aid me in completing my lab 3 assignment for my Cloud Computing Class. The website is hosted on a virtual machine using Microsoft Azure.
 -----------------------
-Name: 		CarVilla - Free Bootstrap One Page Car Dealer Automotive website template
-Version: 	1.0
-Author: 	ThemeSINE
-Website: 	https://www.themesine.com/
-
-
-Changelog:
------------------------
-Version 1.0 13-06-2018
-- initial release 
-
-
-Credits:
------------------------
-- Twitter Bootstrap http://getbootstrap.com
-- jQuery http://jquery.org
-- Modernizr https://modernizr.com/
-- Sticky.js http://stickyjs.com/
-- JQuery easing https://github.com/gdsmith/jquery.easing
-- Bootsnav http://bootsnav.danurstrap.com/
-- Pexels https://www.pexels.com/
-- Unsplash https://unsplash.com/
-
-License:
------------------------
-This template is under Free License - https://www.themesine.com/license/
